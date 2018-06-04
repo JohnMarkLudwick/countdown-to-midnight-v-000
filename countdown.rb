@@ -14,7 +14,7 @@ def countdown(number)
 end
 
 
-def countown_with_sleep(number)
+def countdown_with_sleep(number)
     
     sleep 1
  
