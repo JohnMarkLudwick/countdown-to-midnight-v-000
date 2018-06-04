@@ -16,7 +16,6 @@ end
 
 def countown_with_sleep(number)
     sleep 1
-  end
  
 
 
