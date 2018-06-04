@@ -14,7 +14,7 @@ def countdown(number)
 end
 
 
-def countown_with_sleep(number)
+def countown_with_sleep(5)
   while number > 0
     puts "#{number} SECOND(S)!"
     number -= 1
@@ -26,20 +26,6 @@ def countown_with_sleep(number)
 
 end
 
-
-
-
-
-# counter = 1
-
-# while counter >= 9
-#   puts "#{counter} SECOND(S)!"
-#   break if counter == 0
-#   counter = counter - 1
-  
-# end
-
-# puts "HAPPY NEW YEAR!"
 
 
 
