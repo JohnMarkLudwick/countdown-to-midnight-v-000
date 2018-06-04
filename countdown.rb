@@ -20,7 +20,7 @@ def countown_with_sleep
     number -= 1
     
   end
-  sleep(1)
+  sleep1
   # puts "HAPPY NEW YEAR!"
   "HAPPY NEW YEAR!"
 end
